@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>home</div>;
+  return <div>TEST if ci-cd works well!</div>;
 }
